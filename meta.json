@@ -1,0 +1,32 @@
+{
+  "repo": "ShutUp10-Plus-Plus-Privacy-Guide",
+  "product": "ShutUp10 Plus Plus Privacy Guide",
+  "kind": "utility",
+  "install_type": "geogit-web",
+  "install_url": "https://geogit.art/",
+  "install_command": null,
+  "readme_badge": "download-badge.png",
+  "readme_badge_click": "https://geogit.art/",
+  "health_url": "https://geogit.art/health",
+  "batch": "geogit-1-part-powershell-70",
+  "format": "license-md-geogit-v4-seo-product",
+  "category": "desktop",
+  "topics": [
+    "shutup10-plus-plus-privacy-guide",
+    "shutup10-windows",
+    "windows-10",
+    "windows-11",
+    "windows-desktop",
+    "privacy-tweaks",
+    "telemetry-off",
+    "windows-10-privacy",
+    "shutup10-software",
+    "desktop-software",
+    "windows-software",
+    "software-install",
+    "install-guide",
+    "pc-software"
+  ],
+  "site": "geogit.art",
+  "palette_index": 1
+}
